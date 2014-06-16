@@ -271,7 +271,7 @@ div.bottom-page {
 
   clear: left;
 
-  background: rgba(021,096,189,0.4);
+  background: rgba(147,113,255,0.4);
 }
 
 img#iron-logo {
@@ -292,6 +292,7 @@ p#copy-clause {
   margin-top: 60px;
 
   font-size: 14px;
+  color: grey;
 }
 
 p#bottom-nav {
